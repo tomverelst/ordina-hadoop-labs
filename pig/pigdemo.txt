@@ -1,6 +1,6 @@
 BE	Hazard
 BE	Courtois
-BE 	Benteke
+BE	Benteke
 BE	Lukaku
 WA	Bale
 WA	Allen
