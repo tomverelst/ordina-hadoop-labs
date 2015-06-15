@@ -1,0 +1,3 @@
+create table players (
+team string, name string) ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t' ;
